@@ -1,0 +1,52 @@
+None
+ How can you best hedge your investment portfolio against the possibility of much higher inflation? It’s an important question to ask because inflation expectations are heating up and the trend may continue,
+
+Earlier this month, St. Louis Federal Reserve President James Bullard told reporters that “the quiescence of inflation that has characterized the last decade may not be a good guide for what’s going to happen in 2021, where I would expect more volatile pricing, possibly higher inflation than we’re used to.”
+
+Consider the 10-year breakeven inflation rate, which is what the bond market currently is betting inflation will average over the next decade. It recently rose above 2.0%, for the first time in more than two years. As recently as March 2020, the bond market was betting that inflation over the subsequent 10 years would average just 0.50%.
+
+In the discussion below I review how various asset classes have performed historically on an inflation-adjusted basis.
+
+Gold
+
+I start by focusing on gold, since in the popular imagination it is the go-to asset for investors wanting to hedge against inflation risk. I’m not so sure they’re right.
+
+Consider the chart below, which plots gold’s GC00, +0.30% trailing five-year inflation-adjusted return (in U.S. dollars relative to the U.S. Consumer Price Index). Notice the lack of any consistency: Since the 1970s, when gold began to freely trade in the U.S., its five-year real return has fluctuated from a high of 27.5% annualized (in September 1980) to a low of minus 20.6% (in January 1985).
+
+This record should give you pause if you’re looking to gold to provide an inflation-hedge in coming years.
+
+Gold does have a better inflation-hedging record when measured over periods much longer than five years. Much, much longer, in fact. Research by Duke University professor Campbell Harvey and Claude Erb, a former commodities and fixed income manager at TCW Group, found that gold does a relatively decent job of keeping pace with inflation only when measured over periods close to a century or longer.
+
+Bitcoin
+
+I will mention bitcoin BTCUSD, +0.75% only in passing, since its price history is too short to support robust conclusions about its inflation-hedging ability. Yes, bitcoin doubled from mid-December to early January, as inflation started to heat up. But then, with no apparent easing of inflationary pressures, bitcoin between Jan. 8 and Jan. 11 fell by more than $10,000 — 25% of bitcoin’s value. It also fell by more than 75% between late 2017 and early 2019.
+
+Stocks
+
+Stocks have produced the highest inflation-adjusted return of any major asset class over the long term. But that doesn’t make the stock market a good inflation hedge over any five-year period.
+
+For comparison, consider that gold’s average five-year inflation-adjusted return since the mid-1970s is 2.2% annualized. The comparable average for the dividend-adjusted S&P 500 SPX, -0.72% is 8.4%. So in terms of simple averages, stocks are a better inflation hedge than gold.
+
+Nevertheless, stocks’ inflation-adjusted returns are almost as volatile as gold’s. Since the mid-1970s, stocks’ five-year inflation-adjusted return has been as high as 25.7% annualized and as low as minus 8.1% annualized. The standard deviation of its five-year annualized real returns is 7.4%, versus 10.0% for gold.
+
+Inflation-protected Treasurys
+
+If you want to incur no volatility whatsoever in your return relative to the Consumer Price Index, your asset of choice has to be the U.S. Treasury’s Inflation Protected Securities (TIPS). That’s because the interest paid is pegged to the CPI. You lock in your inflation-adjusted return when you buy TIPS and hold to maturity.
+
+Currently you will pay a price for that guarantee, since TIPS’ yields are negative. The 10-year TIPS currently has a real yield of minus 0.96%, for example, which means your return will be that much less than the inflation rate if you buy and hold until maturity in 2031. You can think of that minus 0.96% as the insurance premium you must pay to consistently insure against inflation.
+
+In deciding whether to rely on TIPS to hedge inflation in coming years, therefore, you must decide whether their consistency and guarantee is of sufficient value to compensate you for losing 0.96% per year to inflation. With gold, bitcoin, or stocks, you might do a lot better — or much, much worse.
+
+I-Bonds
+
+The last asset I want to mention is a close relative to TIPS, but which carries an attractive feature. I-Bonds are U.S. Savings Bonds whose yield, like TIPS, is pegged to the Consumer Price Index. Unlike TIPS, however, their yield will never be below that of the CPI. With the 10-year TIPS yielding minus 0.96%, this makes the I-Bond an attractive alternative.
+
+There’s a catch, however. Two, in fact. The first is that you can only purchase $10,000 of I-Bonds in any given calendar year. So if you want to purchase a greater amount of guaranteed inflation protection you will have to turn to TIPS. The second catch is that I-Bonds don’t trade in the secondary market; your only redemption option is with the U.S. Treasury.
+
+Furthermore, you are prevented from redeeming in the first year after purchasing, and between one- and 12 years after purchase you forfeit three months of interest when redeeming.
+
+Mark Hulbert is a regular contributor to MarketWatch. His Hulbert Ratings tracks investment newsletters that pay a flat fee to be audited. He can be reached at mark@hulbertratings.com
+
+More: Here’s what you really should know about the ‘First 5 Days of January’ indicator
+
+Plus: Here are the biggest stock market winners and losers in Biden’s massive stimulus plan

@@ -1,0 +1,135 @@
+The chorus is getting louder.
+
+Adding his sonorous voice to the chorus of renowned investors talking about bitcoin recently, hedge fund manager Stanley Druckenmiller stated on a CNBC interview this week that he believed bitcoin could perform better than gold.
+
+“I own many, many more times gold than I own bitcoin, but frankly if the gold bet works, the bitcoin bet will probably work better because it’s thinner and more illiquid and has a lot more beta to it.“
+
+This is worth diving into a bit, because the statement is good news for the industry, but it is not the bullish affirmation that it initially seems.
+
+This is not Druckenmiller saying that bitcoin has a better value proposition than gold, or that it has a harder cap or that decentralization is the way to go.
+
+No, this is Druckenmiller saying that bitcoin has more upside because of its market inefficiencies. Let that sink in: The very characteristics that many investors have cited as barriers to investment are what a renowned investor believes will award bitcoin a better performance.
+
+These three factors are all interrelated, dependent perhaps, but they’re not the same.
+
+Let’s look at them one by one:
+
+1. It’s thinner
+
+An asset is considered “thin” if a large order will materially change the price. This can be measured by market depth, or the overall level and breadth of open orders, which can be calculated by adding up buy/sell orders in the system at price levels up to a certain distance from the mid price. The higher the total, the less impact a large order will have.
+
+For instance, the snapshot below shows the placed buy (bid) and sell (ask) orders for BTC/USD at Coinbase. The exchange’s 10% bid or ask order depth is the sum of all buy or sell orders at levels up to 10% from the current mid price.
+
+Source: CryptoCompare
+
+Comparing bitcoin’s order book depth to that of the second largest cryptocurrency by market cap, ETH, we see that BTC has significant depth by crypto market standards ($20.5 million vs ETH’s $6 million).
+
+Source: CryptoCompare
+
+The above BTC chart shows that a sell order for 10 BTC (~$159,000), hitting the bids already in the system, would move the price down approximately 0.1%. If you tried to sell 1,000 BTC (~$16 million) at the time of the snapshot, the price could drop as much as 7%, given the state of the order book at Coinbase at the time. (It’s worth noting that this is only on one exchange, market depth varies across exchanges, and that the order book would rapidly change should an order of that size hit the market.)
+
+For comparison, a $16 million order in ETH would move the market down by approximately 35%. The gold market, on the other hand, would barely notice an order of that size.
+
+The chart below shows the relative state of the aggregate market depth across six of the more liquid exchanges, calculated by adding bids and asks at levels up to 10% from the mid price. The increase in sell orders (red line) coincides with the recent price run-up, and shows the reaction from market makers to the increased buying pressure in the market.
+
+Source: Kaiko
+
+2. It’s more illiquid
+
+Liquidity is tied to market depth, but it also invokes spreads between buy and sell prices.
+
+An asset is said to be “illiquid” if the difference between the highest bid and the lowest ask is wide. This indicates a reluctance from market makers to take a position in the asset without due compensation, as they make money on the spread. In a thin market, market makers are likely to have a harder time moving positions off their books, so spreads tend to be wider than in markets with more robust order depth.
+
+The chart below shows that the BTC market has low spreads, often lower than those on some gold exchanges. The spreads on Coinbase at time of writing are less than one basis point. According to BullionVault, the gold spread is currently around 17 basis points.
+
+Source: Kaiko
+
+This doesn’t mean Druckenmiller is wrong, though – BTC spreads may be thinner than those often found in gold markets, but in the bitcoin market spreads can be distorted by the structure of trading fees at some exchanges. For now, market depth is a more meaningful indicator of overall market liquidity.
+
+This brings us to Druckenmiller’s third observation, and here things get interesting.
+
+3. It has a lot more beta
+
+Beta is a measure of an asset’s volatility relative to a market benchmark. The beta of Apple, for instance, would be its volatility relative to that of the S&P 500, or 1.7 at time of writing, according to FactSet. The beta of General Electric, to compare a more diversified industrial company, is at 0.7 at time of writing – less volatile than both Apple and the market as a whole.
+
+Calculating the betas of “hedge” assets such as gold and bitcoin is more complicated, because what index do you benchmark against? Taking the S&P 500 as the benchmark (not always appropriate), we get a BTC beta of 0.97, while gold’s beta is only 0.34. So, bitcoin does have a higher beta than gold relative to the stock index, but the utility of this calculation using an unrelated benchmark is doubtful.
+
+What Druckenmiller was probably referring to was not so much beta as volatility. BTC’s annualized 30-day volatility at time of writing is 47% vs. 14% for gold.
+
+When you have a relatively thin and illiquid market, you almost always have higher volatility.
+
+Druckenmiller was not saying that a higher volatility was necessarily good. He knows, however, that a high volatility is an advantage when the momentum is favorable. When there’s upside to be had, a higher beta will give you more. “If the gold bet works,” he says, “the bitcoin bet will probably work better,” because of the volatility. What is a barrier for many can be harnessed as an advantage in the appropriate context.
+
+So, why bitcoin?
+
+It sounds like Druckenmiller doesn’t see bitcoin as a portfolio hedge, unlike many other investors. It sounds like he sees it more as a directional play.
+
+Such an experienced investor no doubt has a well-calibrated portfolio with diversified risk. He has made a compelling case for increased inflation, and implies he has a substantial gold position, presumably as a hedge against currency debasement.
+
+Bitcoin, however, seems to be a side bet. He has a “tiny amount” which he expects to outperform gold if gold does well, because of its market inefficiencies. It’s almost as if his investment in bitcoin is similar to a position in an emerging market – higher risk, but potentially higher return.
+
+But his conviction in bitcoin’s upside feels muted. He even chides Kelly Evans, the CNBC interviewer:“You overstated in your introduction my enthusiasm for bitcoin.”
+
+Rather than say he sees bitcoin as a good store of value, he says that he realizes it could be seen as a good store of value by certain demographics (millennials and Silicon Valley types), implying recognition that they have enough market clout to influence prices. This suggests that he is playing the narrative, rather than believing in the thesis.
+
+But here’s the good news for crypto markets: One of fund management’s best-known names, a self-professed “dinosaur,” recognizes that bitcoin is an “asset class” with a potentially strong investment case for some investor groups. This is a worthy validation. It will encourage other investors to at least do their homework. And it removes career risk for any analyst, adviser or fund manager wishing to present a bitcoin investment case to their colleagues and clients.
+
+Crypto enthusiasts are quick to latch onto any piece of good news as proof that the world is finally seeing the potential. This confirmation bias endemic to our industry led to headlines proclaiming that Druckenmiller said that bitcoin was “better than” gold (he didn’t), that he had “flipped to” bitcoin (far from the truth), that he had become a bitcoin bull (he hasn’t), that he thought that bitcoin was “the best asset” (I doubt that very much).
+
+And while the attention from media is positive, we do ourselves a disservice when we lose perspective. This was not a full-throated endorsement of bitcoin’s superior investment qualities. It was, however, a validation of cryptocurrency as an asset class worth learning more about, as well as a reminder that higher risk can bring higher returns in the right circumstances.
+
+It wasn’t so much an embrace as it was a sideways glance with a nod of recognition. For status and confidence, however, that can be more than enough.
+
+(Special thanks to Clara Medalie of Kaiko for the charts.)
+
+Ethereum forks but not really
+
+So, a strange thing happened to Ethereum this week.
+
+Early Wednesday morning, Ethereum infrastructure provider Infura announced it was experiencing a service outage for its Ethereum mainnet API. This affected services on Ethereum-based services such as Metamask, Uniswap and others. Some exchanges such as Binance, the largest cryptocurrency exchange in the world in terms of volume, suspended ETH withdrawals and transactions as a cautionary measure.
+
+This was disconcerting, as one or two outages is worrying but not alarming – when several high-profile applications get affected, ripples of alarm understandably wash over the community.
+
+It turns out that a bug was detected in an upgrade that shipped a year ago for one of the main Ethereum node software clients, Geth. A fix was implemented and silently shipped in July of this year. Not everyone upgraded to the fix, and some Ethereum applications, including Infura, Blockchair and some miners, got stuck on a minority chain.
+
+This episode reminds us that all technology is vulnerable to code bugs. In the end, the error was human – some platforms didn’t upgrade. (And who among us rigorously updates their laptop software every time there’s an upgrade?) It was also a communication error – the bug was detected, a fix was shipped, but this was not widely broadcast.
+
+It also highlights that, although Ethereum is in theory a decentralized network with independent nodes distributed around the world, many of these nodes still depend on centralized services. This introduces vulnerabilities, and reminds us that some degree of centralization is very difficult to avoid, especially as a network scales.
+
+The main takeaway, however, is the strength of the community.
+
+This is characteristic of open-source platforms, but is especially prominent in Ethereum, a sprawling network where all users have a vested interest in the network’s success. This means that, in this situation, all users scrambled to find a fix, some losing out on transaction opportunities and others having to walk back transactions on the minority chain.
+
+Seeing a community come together to fix a problem is a concrete example of how spontaneous economies – that is, those that are not planned or controlled – can achieve lasting value and achieve a meaningful size.
+
+Another takeaway is that the price of ETH did not blink. (Actually, it ended up increasing almost 3% on the day). I was watching it as this drama was unfolding, expecting it to dip sharply. After all, fear was percolating that Ethereum had “broken,” which surely would damage faith in the network’s ability to weather the upcoming protocol change.
+
+That it did not do so is a testament to the asset’s deepening maturity, and shows that investors have their eyes on a more hopeful horizon.
+
+Anyone know what's going on yet?
+
+The fact that stocks didn’t do better in a week that brought very good news on the vaccine front and pushed tax increases further towards the horizon, shows that the impact of the virus on the economy is still very much a concern. Even in the best-case scenario, vaccine distribution will be complicated and fragmented, at least for the next year or so, and meanwhile the number of new cases worldwide continues to head upwards
+
+What’s more, the potential distribution of an effective virus in near future raises some interesting dilemmas for crystal ball gazers. Will the economic boost from the renewal of activity offset the gradual removal of monetary policy support for markets?
+
+To top it all off, we seem to be heading into default season, which could get ugly for sovereigns and banks.
+
+Bad news may be hovering, but could continue to be shrugged off as monetary expansion continues to lend tailwinds to market valuations. Even the remnants of electoral uncertainty in the U.S. is not spooking the market, as lingering doubts jostle with the receding likelihood of tax increases.
+
+Bitcoin, meanwhile, seems to be benefitting from macro trends which are contributing to the growing institutional support, spending a large part of the week above $16,000 to deliver a spectacular year-to-date performance of over 125%.
+
+CHAIN LINKS
+
+JPMorgan’s Global Markets Strategy team issued a report highlighting that the Grayscale Bitcoin Trust (managed by Grayscale Investments, a subsidiary of CoinDesk’s parent DCG) has performed better in terms of flow trajectory than gold ETFs. TAKEAWAY: The data itself is impressive. Even more interesting, however, is that JPMorgan is writing a note about it, pointing out that interest in bitcoin appears to be driven by not just millennials but also by institutional investors such as family offices who look at bitcoin as an alternative to gold. Narratives like this tend to be contagious
+
+The China Construction Bank (CCB) will issue $3 billion worth of debt securities on a blockchain, with the help of Malaysia-based digital asset exchange Fusang. These bonds will be exchangeable for bitcoin or U.S. dollars. TAKEAWAY: There is so much that is astonishing about this. First, CCB is the second largest bank in the world, owned by the Chinese Ministry of Finance, and it is doing business with a digital asset exchange. Second, while the bank will not be handling cryptocurrency, it is aware of and appears to be supportive of people buying these bonds with bitcoin, and cashing out into the cryptocurrency (via USD). Third, the annualized interest is low, only 0.75%, but it is more than most U.S. bank dollar deposit rates, and the minimum buy-in is a retail-sized $100. And, let’s not overlook the fact that the bonds are being issued on a blockchain. And they are not being issued by an innovative tech company – they are being issued by a state-owned Chinese bank. If this is an experiment, it’s a big one, and definitely worth keeping an eye on.
+
+MicroStrategy CEO Michael Saylor came to the attention of the crypto industry when it was revealed earlier this year that his company had invested $425 million in bitcoin, as an inflation hedge. In a fireside chat with our COO Michael Casey (worth watching, video link in article), he explained the reasoning behind his move, saying that his firm’s bitcoin bet was a “rational response to a macroeconomy in chaos.” He went on add that hoarding gold is “an antiquated approach to storing value,” he said, and that bitcoin is “a million times better.” TAKEAWAY: It’s a refreshing viewpoint when it comes to corporate treasury management, and the company has so far done remarkably well with the bet – the value of the company’s holding has increased by over $190 million, more than the cumulative profit from the past few years. The actual impact on the bottom line has yet to be detailed, however, as the holding is valued as an intangible asset on the balance sheet.
+
+Ray Dalio, the founder and co-chairman of hedge fund Bridgewater Associates, said he sees three main problems with bitcoin: that it can’t easily be used for purchases, that volatility makes merchants reluctant to accept it, and that governments will “outlaw” it should it start to become “material.” TAKEAWAY: Seriously, you’d think he’d put a bit of effort into doing some research. Bitcoin as a technology for consumer payments, and governments being afraid of it, are 2012’s arguments.
+
+Bitcoin ATM installations have grown 85% so far this year, outpacing last year’s 50% growth. TAKEAWAY: ATMs allow people to buy bitcoin that either don’t have a bank account or don’t feel comfortable with the bank knowing that they are doing so. The amounts are small, usually less than $100 at a time; but the potential reach is broad, and the growth in ATMs is a sign of growing retail interest around the world, either for investment or payments. This is likely to end up being reflected in on-chain volumes as well as the BTC price.
+
+The sharp growth in bitcoin-on-ethereum (Wrapped Bitcoin [WBTC] is the largest of a handful of services that lock bitcoin in a contract in exchange for an Ethereum-based representation) slowed in October, but the total supply still grew a hefty 21% over the month, more than enough to absorb all newly mined bitcoin. TAKEAWAY: The slowdown is likely to be the result of the cooling down of interest in decentralized finance yields. But the growth is still substantial, and highlights the strengthening of a new use case for bitcoin: as a collateral asset on decentralized lending platforms. I expect the growth to continue to calm down over the coming months, but to still remain notably positive.
+
+After going live last week, the deposit contract for Ethereum’s 2.0 upgrade now holds over 50,000 ETH, or approximately 10% of the threshold needed to activate the transition of Ethereum from a proof-of-work blockchain to a new technical infrastructure that supports proof-of-stake. TAKEAWAY: Once Ethereum 2.0 goes live, validators (who must stake a minimum of 32 ETH) will begin earning block rewards on the new network at an estimated rate of 8%-15% annually, an attractive yield in the current environment, although the investment comes with a lock-up period and is not without risk.

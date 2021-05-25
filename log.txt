@@ -1,0 +1,304 @@
+16.10.2020
+found articles: 70
+after checking with url_done: 55
+newly added: 32
+18-10.2020
+found articles: 70
+after checking with url_done: 45
+newly added: 22
+19.10.2020
+found articles: 70
+after checking with url_done: 45
+newly added: 21
+2020-10-21 16:35:56.735446
+found articles: 70 
+after checking with url_done: 56 
+newly added: 25 
+2020-10-23 13:40:07.174864
+found articles: 70 
+after checking with url_done: 54 
+newly added: 27 
+2020-10-25 17:05:27.013707
+found articles: 70 
+after checking with url_done: 49 
+newly added: 30 
+2020-10-27 13:54:32.778051
+found articles: 70 
+after checking with url_done: 57 
+newly added: 29 
+2020-10-29 10:56:13.783739
+found articles: 70 
+after checking with url_done: 57 
+newly added: 26 
+2020-11-01 00:28:58.441919
+found articles: 70 
+after checking with url_done: 49 
+newly added: 25 
+2020-11-02 09:46:57.933144
+found articles: 70 
+after checking with url_done: 50 
+newly added: 31 
+2020-11-04 09:06:13.796081
+found articles: 70 
+after checking with url_done: 53 
+newly added: 18 
+2020-11-05 15:37:08.343654
+found articles: 70 
+after checking with url_done: 48 
+newly added: 15 
+2020-11-06 12:10:47.168085
+found articles: 70 
+after checking with url_done: 50 
+newly added: 11 
+2020-11-06 12:18:27.301510
+found articles: 70 
+after checking with url_done: 47 
+newly added: 16 
+2020-11-09 13:41:01.623827
+found articles: 70 
+after checking with url_done: 55 
+newly added: 25 
+2020-11-11 01:42:26.815080
+found articles: 70 
+after checking with url_done: 60 
+newly added: 28 
+2020-11-12 13:23:53.444307
+found articles: 70 
+after checking with url_done: 54 
+newly added: 21 
+2020-11-13 12:18:27.358490
+found articles: 70 
+after checking with url_done: 48 
+newly added: 17 
+2020-11-15 10:45:44.276631
+found articles: 70 
+after checking with url_done: 50 
+newly added: 20 
+2020-11-16 09:04:18.486131
+found articles: 70 
+after checking with url_done: 45 
+newly added: 15 
+2020-11-17 20:35:35.362918
+found articles: 70 
+after checking with url_done: 57 
+newly added: 27 
+2020-11-18 12:57:25.402470
+found articles: 70 
+after checking with url_done: 49 
+newly added: 19 
+2020-11-19 11:58:09.264386
+found articles: 70 
+after checking with url_done: 49 
+newly added: 20 
+2020-11-20 01:23:09.680028
+found articles: 70 
+after checking with url_done: 47 
+newly added: 21 
+2020-11-20 12:34:02.514154
+found articles: 70 
+after checking with url_done: 42 
+newly added: 17 
+2020-11-21 10:41:46.847988
+found articles: 70 
+after checking with url_done: 49 
+newly added: 25 
+2020-11-22 11:10:33.743331
+found articles: 70 
+after checking with url_done: 45 
+newly added: 14 
+2020-11-23 13:57:40.410491
+found articles: 70 
+after checking with url_done: 43 
+newly added: 17 
+2020-11-23 22:42:38.842708
+found articles: 70 
+after checking with url_done: 47 
+newly added: 22 
+2020-11-24 11:48:05.682580
+found articles: 70 
+after checking with url_done: 45 
+newly added: 17 
+2020-11-25 00:10:25.314871
+found articles: 70 
+after checking with url_done: 47 
+newly added: 17 
+2020-11-25 10:01:47.095777
+found articles: 70 
+after checking with url_done: 44 
+newly added: 21 
+2020-11-25 22:33:32.585237
+found articles: 70 
+after checking with url_done: 47 
+newly added: 24 
+2020-11-26 10:34:24.590699
+found articles: 70 
+after checking with url_done: 44 
+newly added: 19 
+2020-11-26 22:23:12.676062
+found articles: 70 
+after checking with url_done: 48 
+newly added: 19 
+2020-11-27 11:36:09.805583
+found articles: 70 
+after checking with url_done: 42 
+newly added: 18 
+2020-11-27 22:01:42.032677
+found articles: 70 
+after checking with url_done: 46 
+newly added: 17 
+2020-11-28 10:15:46.397960
+found articles: 70 
+after checking with url_done: 40 
+newly added: 19 
+2020-11-29 10:12:03.190093
+found articles: 70 
+after checking with url_done: 43 
+newly added: 14 
+2020-11-30 00:12:18.064565
+found articles: 70 
+after checking with url_done: 42 
+newly added: 16 
+2020-11-30 11:27:12.142668
+found articles: 70 
+after checking with url_done: 43 
+newly added: 20 
+2020-11-30 23:28:43.697623
+found articles: 70 
+after checking with url_done: 47 
+newly added: 20 
+2020-12-01 12:01:09.580919
+found articles: 70 
+after checking with url_done: 44 
+newly added: 21 
+2020-12-03 00:21:24.257270
+found articles: 70 
+after checking with url_done: 58 
+newly added: 20 
+2020-12-03 19:28:43.884452
+found articles: 70 
+after checking with url_done: 53 
+newly added: 16 
+2020-12-05 00:13:25.674172
+found articles: 70 
+after checking with url_done: 59 
+newly added: 16 
+2020-12-05 16:58:58.887789
+found articles: 70 
+after checking with url_done: 45 
+newly added: 11 
+2020-12-06 22:01:48.499958
+found articles: 70 
+after checking with url_done: 47 
+newly added: 13 
+2020-12-07 15:37:39.518811
+found articles: 70 
+after checking with url_done: 48 
+newly added: 12 
+2020-12-09 10:26:30.896798
+found articles: 70 
+after checking with url_done: 62 
+newly added: 24 
+2020-12-10 16:02:46.962396
+found articles: 70 
+after checking with url_done: 60 
+newly added: 17 
+2020-12-11 15:55:30.792295
+found articles: 70 
+after checking with url_done: 54 
+newly added: 15 
+2020-12-12 15:10:05.018706
+found articles: 70 
+after checking with url_done: 53 
+newly added: 15 
+2020-12-14 15:24:51.057830
+found articles: 70 
+after checking with url_done: 54 
+newly added: 17 
+2020-12-15 15:33:46.121086
+found articles: 70 
+after checking with url_done: 58 
+newly added: 15 
+2020-12-16 15:03:52.125820
+found articles: 70 
+after checking with url_done: 59 
+newly added: 13 
+2020-12-17 15:25:55.945097
+found articles: 70 
+after checking with url_done: 61 
+newly added: 22 
+2020-12-18 15:20:22.734413
+found articles: 70 
+after checking with url_done: 58 
+newly added: 14 
+2020-12-20 13:38:53.288539
+found articles: 70 
+after checking with url_done: 51 
+newly added: 7 
+2020-12-23 12:23:38.644914
+found articles: 70 
+after checking with url_done: 58 
+newly added: 18 
+2020-12-24 17:05:42.737984
+found articles: 70 
+after checking with url_done: 54 
+newly added: 18 
+2020-12-27 12:51:09.499339
+found articles: 70 
+after checking with url_done: 54 
+newly added: 9 
+2020-12-28 19:43:26.527491
+found articles: 70 
+after checking with url_done: 57 
+newly added: 17 
+2020-12-29 22:58:54.740664
+found articles: 70 
+after checking with url_done: 55 
+newly added: 20 
+2020-12-31 10:22:07.138364
+found articles: 70 
+after checking with url_done: 53 
+newly added: 14 
+2021-01-02 13:24:48.911632
+found articles: 70 
+after checking with url_done: 50 
+newly added: 15 
+2021-01-05 15:46:56.790568
+found articles: 70 
+after checking with url_done: 62 
+newly added: 24 
+2021-01-06 15:45:58.228163
+found articles: 70 
+after checking with url_done: 61 
+newly added: 20 
+2021-01-07 15:35:38.574504
+found articles: 70 
+after checking with url_done: 55 
+newly added: 22 
+2021-01-08 15:45:26.938249
+found articles: 70 
+after checking with url_done: 60 
+newly added: 22 
+2021-01-10 22:18:27.183947
+found articles: 70 
+after checking with url_done: 54 
+newly added: 19 
+2021-01-11 15:09:42.001536
+found articles: 70 
+after checking with url_done: 50 
+newly added: 18 
+2021-01-12 15:36:30.382361
+found articles: 70 
+after checking with url_done: 55 
+newly added: 15 
+2021-01-14 15:54:10.384188
+found articles: 70 
+after checking with url_done: 63 
+newly added: 22 
+2021-01-18 15:31:20.737925
+found articles: 70 
+after checking with url_done: 63 
+newly added: 22 
+2021-01-20 13:22:13.387310
+found articles: 70 
+after checking with url_done: 66 
+newly added: 16 

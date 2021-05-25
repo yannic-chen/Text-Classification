@@ -1,0 +1,5 @@
+Technical analysisGold prices rallied on Monday bouncing near support at the 10-day moving average at 1,887.
+The 10-day moving average crossed through the 50-day moving average which means a short-term downtrend is in place.
+Medium-term momentum has turned positive as the MACD (moving average convergence divergence) generated a crossover buy signal.
+This occurs as the MACD line (the 12-day moving average minus the 26-day moving average) crosses above the MACD signal line.
+Short-term momentum has turned positive as the fast stochastic recently generated a crossover buy signal.

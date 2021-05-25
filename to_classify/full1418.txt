@@ -1,0 +1,60 @@
+2021-01-04 10:59:04-05:00
+ Good morning, traders; Welcome to our market week preview, where we take a look at the economic data, market news and headlines likely to have the biggest impact the price of gold this week and beyond, as well as market prices for silver, the US Dollar, and other key correlated assets.
+
+Just after the start of cash trading in US stock markets this morning, gold prices are sharply higher, starting off 2021 with an overnight surge that has the yellow metal trading beyond seven-week highs at $1940/oz in spot markets, a gain of just over $40 suggesting that gold may be able to build solid support above $1900 this month. Silver has also enjoyed the rally, moving well above $27.25/oz.
+
+The metals have built strong momentum to start the year from the double-push of rallying risk-appetite in global markets that seems to be boosting raw commodities overall, and the US Dollar resuming the steady fall that marked the final weeks of 2020. It’s with this dynamic in mind that we’ll turn to the (relatively) busy economic calendar ahead; While the data for December 2020’s economic activity will likely look as we’ve long expected it to, we’ll want to see if slows the momentum of either the demand for risk or the Dollar’s fall.
+
+There’s plenty to keep an eye on outside of the hard numbers this week as well. The story in Washington that has commanded markets’ attention—that of the stalemate over increasing and accelerating fiscal stimulus efforts in Congress—will continue to be the big narrative driver of markets alongside the global efforts to contain the coronavirus while rolling out vaccinations. Closely tied to the legislative ineptitude in DC, on Tuesday evening we’ll see polls closing in the Georgia Senate runoffs, the final results of which will have a deciding hand to play in the outlook for fiscal action from Congress not only in the coming weeks but for the whole of 2021. Also on out radar: the monthly OPEC+ meeting will be closely watched to see if current production cuts will be extended or deepened, and the sudden drop in Bitcoin prices today may be shaking the faith of investors who were considering it as an alternative safe haven vs. the Dollar.
+
+As the week begins, I’m of the mind that gold’s sharp rally—should it be able to consolidate in US trading after profit-taking—makes the yellow metal the “richer” of the core safe havens and, as a result, any shocks this week that might send investors reaching away from risk could turn their attention the “cheap” Dollar instead of gold. With that said, let’s look at the data calendar coming up.
+
+US Economic Data to Watch
+
+Tuesday, January 5 at 10am EST // ISM Manufacturing PMI (Dec)
+
+[consensus exp.: 56.6 // prev.: 57.5]
+
+Analysts are expecting to see moderately weaker growth in manufacturing sector activity for December, and we’ll see this being a consistent theme across most of December’s data as economic activity was curtailed over the final weeks of 2020 in an effort to resist the winter surge in COVID-19 cases that weighed on all developed western economies. With that in mind, I don’t see much immediate reaction for gold or the US Dollar to PMI data arriving as expected this week. A sharper drop towards the 50.0 breakeven, however, could give the markets a stronger risk-off signal, one that I suspect would be more positive for the Dollar than gold given the yellow metal’s big rally today.
+
+Wednesday, January 6 at 815am EST // ADP Employment Report (Dec)
+
+[consensus exp.: +50k // prev.: +307k]
+
+While November’s Jobs Report showed noticeable weakening in the US labor market recover, it’s been generally expected that that data set came too early to illustrate the real impact of the most recent wave of coronavirus surges and the defensive economic reaction. Instead, December data should be more inclusive of the rollback to heavy restrictions in many states; Wednesday’s private payroll data from ADP, expected to drop to nearly zero, will reflect this. Although this, too, is likely priced into the market for the American economy at this point, it’s worth noting that at least a few major analyst teams on Wall Street are taking the other side of breakeven and predicting a (mild) net decrease in the number of American jobs in December. Something like that, while not actually much different than a meek +50k, could induce some sticker shock on Wednesday morning and send some investors back into cash.
+
+Thursday, January 7 at 830am EST // Initial Jobless Claims
+
+[consensus exp.: +800k // prev.: +787k]
+
+Last week’s drop below 800,000 new unemployment claims for the measured week was a nice surprise, though I’d venture to say that most of our outlooks for 2021 include the hope that we stop referring to over 700k lost jobs as “a nice surprise.” Most economists expect this week’s data to move back up slightly, and I think 800k could be a sticky number for the four-week average to start the year if the pace of new year hires is outmatched by the cutting of seasonal jobs in the retail sector now that the holidays are over.
+
+Thursday, January 7 at 10am EST // ISM Non-Manufacturing Index (Dec)
+
+[consensus exp.: 54.5 // prev.: 55.9]
+
+As with the manufacturing-focused variant earlier in the week, service-sector PMI will likely show a pullback in activity from December. The same notes apply as well: the expected data set is unlikely to move markets, but a steeper decline could rattle confidence, particularly given the elevated importance that the service sector has for the US economy at this time.
+
+Friday, January 8 at 830am EST // December Jobs Report
+
+[(NFP) consensus exp.: +50k // prev.: +245k]
+
+[(unemployment) consensus exp.: 6.8% // prev.: 6.7%]
+
+December’s labor market check will most likely be a starker underlining of the reality I mentioned above in discussing Wednesday’s ADP: While November’s Jobs Report showed us the stumble, the real fall didn’t come until December. And, here also, we’re seeing a similar undercurrent in analyst expectations as the overall consensus view is calling for a very anemic pickup of 50,000 jobs across the entire US while at least a few highly regarded teams (like the one at Goldman Sachs) are calling for a net loss of jobs in the American economy. Given the level of attention usually paid to Non-Farm Payrolls data, I expect that a print near 0—regardless of which side it just falls on—will drive a knee-jerk, risk averse reaction in the markets. As I pointed out before, I think that gold’s high-tone start leaves an opportunity for the US Dollar to rise more sharply than the metals in flights to safety this week; That said, this is another number that I feel is generally priced-in to markets this week and I don’t think any acute reaction in the Dollar or gold prices will persist.
+
+FedSpeak this Week
+
+With our first full trading week since mid-December, FedSpeak is also back on the docket, starting with several FOMC participants addressing the American Economic Association’s annual meeting. In the spirit of a new year, I imagine the Fed members’ comments this week will deal mostly with their outlook for the US economy in 2021 in hopes that the nascent vaccination effort allows for an earnest recovery rather than the false start of fall 2020.
+
+A couple extra notes: While the rotation of voting members on the FOMC doesn’t “officially” take effect until their meeting at the end of this month, we’re going ahead designating voter/non-voter based on the 2021 table; Also, Wednesday afternoon sees the release of the meeting minutes for the FOMC’s December meeting. Typically, we devote a spot in the regular rundown to this, but given the very vanilla nature of December’s meeting and presser no one is expecting much of a reveal in the discussion notes. In a busy first week of the year. If there’s anything to parse that could be relevant as the year goes on, we’ll cover it in Friday’s wrap.
+
+Here are the relevant Fed appearances on this week’s schedule:
+
+Monday: Chicago Fed President Charles Evans (FOMC voter) & Atlanta Fed President Raphael Bostic (FOMC voter) (10am EST); Cleveland Fed President Loretta Mester (non-voter) (6pm)
+
+Tuesday: Chicago President Evans (345pm); New York Fed President John Williams (FOMC voter) (345pm)
+
+Thursday: St. Louis Fed President James Bullard (non-voter) (12pm)
+
+And that’s how the week lays out ahead of us, traders. As always, I wish you all the very best of luck in your markets in the coming days, and I’ll look forward to seeing you all back here on Friday for our market-week wrap up.

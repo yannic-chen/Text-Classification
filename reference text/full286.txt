@@ -1,0 +1,83 @@
+Physical gold and gold mining stocks remain one of the best options for investors that want portfolio protection from the monetary inflation that is occurring now and that will occur in the future.
+
+The U.S. will continue to fund these deficits with more debt and debt monetization. This will result in the rate of M2 growth remaining far higher than historical norms.
+
+Contrary to popular belief, there is a way to properly value gold and determine its direction over the medium to long term. Gold is often viewed as a safe haven asset that performs well during times of uncertainty, and when the rate of inflation is above average. But how can investors even measure geopolitical/economic turmoil and rising prices of goods and services to accurately determine the fair value for gold? They can't because that's not the formula for finding the worth of one ounce of the precious metal.
+
+With stocks, whether an investor is using P/E, EV/EBITDA, P/CF, or other valuation metrics, there are universal calculations that help gauge fair value. Unfortunately, for tangible assets that don't generate profits or cash flow (like gold), those don't apply.
+
+When gold hit $2,000 per ounce this past summer, many investors were likely showing curiosity but weren't able to judge whether there was a lot more gas left in the tank or if gold was on empty. I believe that's why the majority of investors (even sophisticated ones) approach gold with caution or avoid it entirely.
+
+To clear up any confusion, real interest rates do have a great influence on gold, as there is a strong inverse correlation. Gold typically outperforms in negative real interest rate environments (as yields on treasuries are lower than the rate of inflation, making gold more attractive) and underperforms when real rates are well in positive territory (treasury yields are outpacing the rate of inflation, while gold doesn't generate any cash flow or interest). In the 1970s, for example, negative real interest rates dominated during most of the decade as the inflation rate was higher than treasury yields (in the example below, I used 3-month T-Bills). Gold did exceptionally well. In the early 1980s, the Fed embarked on an aggressive monetary tightening policy to get out in front of inflation, with the Fed funds rate spiking to 19% in late 1980. Real interest rates were in the low to mid-single digits over the years that followed, and that was the start of a mega bull market in bonds. Throughout the 1980s and 1990s, real interest rates remained well in positive territory; meanwhile, gold was in a 20-year bear market. Since the 2000s, negative real interest rates have been prevalent, and gold has seen a resurgence since the turn of the century.
+
+(Source: FRED)
+
+However, real interest rates don't tell us anything about what value to place on gold. After all, how does an investor take a negative 1-2% real interest rate and determine the fair price for gold? Why isn't gold at $400-$500 per ounce if real interest rates are similar today as they were in the '70s or early 2000s, for that matter?
+
+We need to go a step further and examine money supply growth.
+
+It's monetary inflation (i.e., money supply growth) that determines gold's value, not price inflation (i.e., the CPI, or the end result of monetary inflation). Examining the period again from 1970 to 1980, focusing this time on the growth rate of M2 and CPI inflation, there is a clear lag in price inflation relative to changes in the money supply. The pattern below shows that, when the rate of M2 growth was at its peak, CPI inflation was at a trough. It took 2-3 years for increases in the money supply to be reflected in the CPI.
+
+(Source: FRED)
+
+The St Louis Fed did a study in the early 1980s that confirms the time lag in price increases during that prior decade, as they found that it took 12 quarters for prices to reflect 100% of the money supply growth. Curiously enough, that was much quicker than the period from 1955 to 1969 (which saw a 5-year delay). Rising oil prices were a factor in the '70s, as they had an immediate impact since consumers could see price increases at the pump and feel it in their pocketbooks, which increased inflation expectations. With oil prices under pressure due to already prevalent pre-COVID-19 structural issues and then reduced demand because of the pandemic, many might look to oil and assume that inflation is well contained (i.e., no need to buy gold). The Fed is also practically begging for inflation due to a continuation of this cycle of below-average inflation expectations. But low price inflation hasn't stopped gold from drastically increasing, and that's because price inflation is a lagging indicator, and not a predictor of where gold should trade.
+
+(Source: St Louis Fed)
+
+Gold's real price relationship is with the money supply, with the level of M2 not only helpful in deciphering the fair value for gold but also where the metal is headed - by forecasting how the money stock will trend.
+
+The money supply (referring to U.S. supply) is the total amount of money in circulation in the country. While there are several measurements of the money supply, M2 is the most useful for this exercise and includes:
+
+M1 (Currency; Demand deposits at commercial banks; Other checkable deposits (OCDs) (in billions of dollars).
+
+
+
+M1 + Savings deposits; Small denomination time deposits; Balances in retail money market mutual funds (in billions of dollars).
+
+
+
+(Source: Federal Reserve)
+
+While the dollar isn't backed by gold anymore, the precious metal is still considered a form of money, and it only makes sense that its value is based on the amount of fiat currency in circulation. The U.S. government might not be on a gold standard, but the market can still gauge the fair price for gold based on M2.
+
+The money supply is continuously increasing, and while gold doesn't move in lockstep, it does follow M2 higher over time. When gold is in a bear market, it becomes severely underpriced in relation to the U.S. money stock. When it's in a bull market, it overshoots fair value. Currently, gold is in a bull market but remains below fair value despite its substantial gain over the last year. This is due to the metal becoming extremely oversold in the late stages of the previous bear market, combined with the near-vertical move in M2 over the past 6-7 months - as gold is still trying to catch up. Gold would need to increase to ~$2,400 to get back in line with M2. If history is any guide (using the 1980 and 2011 peaks as examples), gold will increase well in excess of fair value by the time this bull market is exhausted. While that would take gold to the $3,000+ mark, we don't need to rely on extreme exuberance (i.e., an excessive piling into gold because of negative real interest rates) to achieve that objective, as I believe the money supply is quickly heading to levels that would support a $3,000 gold price.
+
+(Source: FRED)
+
+As I mentioned earlier, we can determine where the gold price is headed by forecasting the growth rate of M2.
+
+The near-vertical ascent in the money supply this year was due to the actions by the Fed and U.S. Congress, as trillions of dollars were created to combat the economic crisis due to COVID-19. While Congress hasn't reached an agreement on another round of stimulus yet, it seems likely that at least another $2 trillion is coming within the next 2-3 months (likely not until post-election). That will result in M2 surging again, which should cause gold to spike in price like it did this past spring.
+
+(Source: FRED)
+
+There is an even bigger catalyst for M2 growth over the medium and long term. The deficit in 2020 in the U.S. will be the largest since 1945 as a percentage of GDP, with a projected total of $3.3 trillion (or 16.0% of GDP). That's more than triple the shortfall in 2019, which came in a hair under $1 trillion. The CBO projects that, even without additional stimulus spending - which would increase mandatory outlays by the federal government - the deficit in 2021 is still projected to be over $1.8 trillion. That equates to 8.6% of GDP, only slightly lower as a percentage of GDP compared to the deficit at the depths of the 2008 GFC. A $1 trillion deficit is already deemed out-of-control spending, and here, we are just trying to work our way back to that level. The U.S. will continue to fund these deficits with more debt and debt monetization. This will result in the rate of M2 growth remaining far higher than historical norms for at least the next several years, driving up the gold price to that $3,000 level. The math works out for that price target as well, as by the time you factor in the potential stimulus spending, and a much more modest ~10% increase in the money supply YoY for the next 2 years on top of that, you can derive that value for gold.
+
+(Source: SomaBull)
+
+Complicating matters even more is future deficits are based on the assumption that interest rates will remain low, and the government will be paying well below average interest over the next 5-10 years compared to the previous 30-year average. While the Fed has changed its monetary policy stance and is allowing inflation to exceed target growth rates (as average inflation targeting will be used going forward), eventually, the Fed will have to act as the inflation lag ceases. Rate normalization will drive up the deficit at a much quicker pace, as net interest on the debt would become a far greater percentage of GDP. Using the 2041-2050 time frame compared to 2010-2019, net interest (top blue bar on the left column of each period) as a percentage of GDP of total outlays would be significantly higher over the coming decades. This is because debt will expand, and interest on that debt will increase to more normal levels (~4%). If nominal rates exceed projections over the next decade, there will be an acceleration of this timeline. In other words, I feel that 2021-2030 will look more like the 2041-2050 projections when it's all said and done.
+
+(Source: CBO)
+
+Everything is in place for gold to reach $3,000 per ounce. I'm not predicting that will occur within the next few months. In fact, I believe that gold could still correct further between now and the end of the year. It's possible that the metal will drop another $150 per ounce and retest its 200-day moving average before reversing higher. There are many short-term headwinds over the next several weeks (e.g., slower money supply growth, uncertainty with the upcoming U.S. election, stabilization in the USD), but I believe, over the next 2-3 years, gold will hit that $3,000 target.
+
+Best Ways To Gain Exposure To Gold And Participate In The Upside
+
+The easiest way to buy physical gold is via an ETF such as the SPDR Gold Trust ETF (GLD). There have been debates about gold-backed ETF products ever since they came into existence, and there will be debates about them for as long as they continue to trade. I think GLD is a perfectly fine option if one is looking to dip their toe in the market (especially for short term, tradable opportunities), or if an investor only plans to hold a small percentage of GLD as part of their overall portfolio (say 5%). There is always the concern about counterparty risk with GLD, but the ease of buying and selling GLD, and the low expense ratio, are major benefits over physical gold.
+
+There's a premium paid on any physical gold purchase, which is one major drawback, especially for short-term holding periods. For example, the spot price of gold is currently $1,925 an ounce. If an investor wants to purchase a 1-ounce American Eagle, the current premium is about $100 per ounce (or 5%). If gold hits $3,000 in the next 2 years, the gain on the purchase is 48%, vs. 55% for GLD (taking into account the 0.40% annual expense fee). An investor might be able to close that gap somewhat if they receive a 1-2% premium on that 1-ounce American Eagle when they sell it, but the total return in GLD would still be 5 percentage points higher in that scenario. That doesn't even take into account the storage cost and cost to insure physical gold.
+
+Investors can circumvent all of this via the futures market, but trading gold futures comes with substantial risks and isn't recommended for most individuals (even sophisticated investors).
+
+Choosing physical gold over GLD makes sense if an investor is buying in large quantities and is willing to hold for a longer period of time, or if they want gold to make up a sizable percentage of their total portfolio. If I wanted gold to account for 15-20% (or more) of my overall investments, I would go the physical route over the ETF, as it's the lowest risk/safest option.
+
+I firmly believe that a diversified basket of quality gold mining stocks is one of the best ways to participate in the gold run to $3,000. I prefer to focus on the small and mid-cap producers, as that's the sweet spot of the market with the most attractive risk/reward. For example, a company like Alamos Gold (AGI) is a mid-tier gold producer with an exceptional balance sheet and a trio of low-cost assets, with the majority of production coming from Canada (one of the best mining jurisdictions in the world).
+
+I like a few of the larger producers in the sector but focus exclusively on the ones best positioned - to not water down performance results. One company that I've written extensively on is Barrick Gold (NYSE:GOLD), as there remains a compelling bull thesis even with the outperformance over the last several years.
+
+There are some extremely interesting gold explorers/developers that can add a significant boost to returns if their stories play out as expected. But, overall, the explorers should not be an overweight subcategory, given the inherent risks, unknowns, and off-the-charts volatility. The vast majority of explorers have subpar projects and management teams, and they usually aren't worth the valuation that investors pay. They trade mostly on speculation, and that's not a way to invest.
+
+Investors should own assets that will protect them from the monetary inflation occurring now, and in the future. Physical gold and gold mining stocks remain one of the best options. The metal remains undervalued, and I believe there is at least 50% more upside. The miners have seen a stellar run over the last few years, but they are still historically cheap. With the current OCF and FCF at $1,900+ gold, these companies are experiencing their best margins ever and could move up multiples from current prices.
+
+Subscribe To The Gold Edge The opportunity in this sector is here, but to succeed, you need a deep knowledge of gold and the miners. The Gold Edge is my premium, research-intensive service that provides that knowledge as I'm sharing all of my thoughts, ideas, and research on the gold sector. If you would like access to all of my analyses, including my top gold and silver mining picks, subscribe to The Gold Edge. Click here for details.
+
+Disclosure: I am/we are long GOLD, AGI. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

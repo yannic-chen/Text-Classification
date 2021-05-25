@@ -1,0 +1,32 @@
+None
+ DRAPER, Utah--(BUSINESS WIRE)--StorageCraft®, whose mission is to protect all data and ensure its constant availability, today announced the immediate availability of StorageCraft ShadowProtect® SPX 7. ShadowProtect has long been the gold standard for SMB data recovery. It enables customers to meet and beat their recovery time and recovery point objectives, recover files and folders in minutes, restore failed servers, and instantly boot backup images into virtual machines using StorageCraft VirtualBoot technology. ShadowProtect SPX 7 now delivers enhanced data security, scalability, and performance, including support for new versions of Linux OS, full support for Windows Resilient File System (ReFS), GPT support, and workflow improvements.
+
+The new enhancements will ensure that IT teams, who are constantly challenged to safeguard data in the face of ever-growing and evolving data environments, can effortlessly meet their data protection requirements regardless of whether they are responsible for a dozen or thousands of backups.
+
+ShadowProtect SPX 7 enhancements include:
+
+Data Security: Businesses can recover files, folders, and entire systems in seconds and boot backup images as virtual machines using patented VirtualBoot technology. SPX7 now supports new versions of Linux OS and ReFS support for Windows, which offers built-in data corruption detection for all data types, including unstructured data such as high-res images, videos, and design files.
+
+Businesses can recover files, folders, and entire systems in seconds and boot backup images as virtual machines using patented VirtualBoot technology. SPX7 now supports new versions of Linux OS and ReFS support for Windows, which offers built-in data corruption detection for all data types, including unstructured data such as high-res images, videos, and design files. Scalability: From mass deployment and configuration to automated verification and alerting, ShadowProtect SPX 7 protects systems with minimal intervention.
+
+From mass deployment and configuration to automated verification and alerting, ShadowProtect SPX 7 protects systems with minimal intervention. Instant Recovery of Larger Volumes: Larger volume support for VirtualBoot allows partners to instantly recover larger data set sizes of >2TB up to 4TB systems (UEFI) within their customer environments.
+
+Larger volume support for VirtualBoot allows partners to instantly recover larger data set sizes of >2TB up to 4TB systems (UEFI) within their customer environments. Improved Installation Workflow and Productivity: Enhanced workflows will make it easier for service desk engineers to quickly onboard new environments and complete support tasks with greater efficiency. These enhancements further extend the ShadowControl central monitoring and management console's value, which provides full visibility into backup jobs' status, ensuring simple administration and powerful tools to remedy issues before they impact performance.
+
+Says Chris Kotul, managing director, Chester Information Technologies Inc: “It’s gratifying to see StorageCraft’s ongoing investments in ShadowProtect SPX. They truly listen to the needs of their channel community and schedule development priorities accordingly. The combination of additional environment support and the ability to instantly recover much larger data sets are precisely the enhancements we need to stay ahead of our clients' evolving data environments and expanding data workloads. This helps us serve our clients, make them happy and it generates new revenue opportunities.”
+
+Benjamin C. Gallo, vice president of sales, Ongoing Operations, LLC adds: “Ongoing Operations has been a ShadowProtect SPX house for over 10 years. Its speed and flexibility of data recovery and encrypted replication are at the heart of our branded backup and disaster recovery services. The addition of new use cases and productivity enhancements in SPX 7, allows us to stay ahead of customer SLAs, and gives us the potential to do more for our customers with even greater efficiency. It is a great value enhancement.”
+
+Concludes Shridar Subramanian, CMO and vice president of global product management at StorageCraft: "MSPs and SMBs alike have put their trust in ShadowProtect for over a decade. The enhancements we have made are in direct response to their feedback and allow them to extend the impact and value of ShadowProtect by addressing additional environments for their existing installed base and, for our MSPs, to capture new opportunities."
+
+Pricing and Availability StorageCraft ShadowProtect SPX 7 is available immediately through StorageCraft's network of authorized resellers and distributors. Visit StorageCraft.com/how-buy for more information and to connect with a reseller that can help assess your data-management needs and provide detailed pricing information.
+
+Follow StorageCraft on Twitter, LinkedIn, and Facebook.
+
+Read the latest data backup and recovery thought leadership articles on the StorageCraft Blog.
+
+About StorageCraft
+
+For nearly two decades, StorageCraft has been innovating advanced data management, protection, and recovery solutions. Together with our channel partners, we ensure medium and small organizations can keep their business-critical information always safe, accessible, and optimized. Our customers benefit from category-leading intelligent data protection and management solutions converged primary and secondary scale-out storage platform and world-class cloud backup and DRaaS services. Regardless of whether an organization relies on on-premises, cloud-based, or a hybrid IT environment, StorageCraft solves the challenges of exploding data growth while ensuring business continuity through best-in-class protection and recovery solutions. For more information, visit storagecraft.com.
+
+StorageCraft, OneXafe, ShadowXafe, OneSystem, and ShadowProtect are trademarks of StorageCraft Technology Corp. Other company and product names may be trademarks or registered trademarks of their respective owners. Copyright 2020 StorageCraft Technology Corp. All rights reserved.

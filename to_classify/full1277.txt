@@ -1,0 +1,80 @@
+2020-12-17 21:58:01.657000+00:00
+ As of December 16, Bitcoin has increased by about 195% year-to-date, topping $23,000, but what is driving this meteoric rise? The reasons for its appreciation vary, but Bitcoin has grown from what was once considered a scam by many into something that has matured into a viable investment made by famous billionaire investors, large institutions, and retail investors alike. Why are these investors so bullish on Bitcoin even after it has surpassed all-time highs?
+
+Key Takeaways Inflation and the lowering purchasing power amidst massive stimulus spending is driving people to store-of-value assets, including Bitcoin.
+
+Bitcoin's mining reward halving mechanism further proves its scarcity and merit as a store-of-value asset.
+
+Institutional adoption as both an investment and as a service they can provide shows strong confidence in the future of Bitcoin and cryptocurrency.
+
+The infrastructure built around cryptocurrency and Bitcoin has shown immense maturity over recent years making it easier and far safer to invest than ever before.
+
+Inflation and the Lowering Purchasing Power of the Dollar
+
+Since the gold standard was removed in 1971 by Richard Nixon the amount of circulating dollars has steadily increased. Between the year 1975 and just before the coronavirus hit, the total money supply has increased from $273.4 billion to over $4 trillion as of March 9, 2020. Since that date, the total money supply has gone from $4 trillion to over $6.5 trillion as of November 30, 2020, largely due to coronavirus related stimulus bills.
+
+Total money supply (https://fred.stlouisfed.org/series/M1).
+
+Congress is currently in talks to pass another stimulus bill of nearly $1 trillion, aimed to help those suffering from the coronavirus. Should this new stimulus bill be passed it would mean that since the onset of coronavirus, around 50% of the world's total supply of US dollars will have been printed in 2020.
+
+While there are certainly people suffering from a lack of jobs and businesses shutting down, the increase in money supply has significant long-term implications for the purchasing power of the dollar.
+
+Purchasing power of the dollar since 1970 (https://fred.stlouisfed.org/series/CUUR0000SA0R).
+
+The stimulus spending has led many to fear far greater inflation rates, and rightfully so. To hedge against this inflation investors have sought assets that either maintain value or appreciate in value. Over the course of 2020, this search for a store-of-value asset to hedge against inflation has brought them to Bitcoin. Why?
+
+There are many assets that are considered a store-of-value. Perhaps the most common assets that come to mind are precious metals like gold or other things that have a limited supply. With gold, we know that it is a scarce resource, but we cannot verify with complete certainty how much exists. And, while it may seem far fetched, gold exists outside of earth and may one day be obtainable via asteroid mining as technology advances.
+
+Why this Matters to Bitcoin
+
+This is where Bitcoin differentiates itself. It is written into Bitcoin’s code how many will ever exist. We can verify with certainty how many exist now and how many will exist in the future. This makes Bitcoin the only asset on the planet that we can prove has a finite and fixed supply.
+
+In Investopedia’s Express podcast with editor-in-chief Caleb Silver, Michael Sonnenshein, a board member of the Grayscale Bitcoin Trust, said: “The amount of fiscal stimulus that has been injected into the system in the wake of the COVID pandemic to stimulate the economy and get things moving again, I think has really caused investors to think about what constitutes a store of value, what constitutes an inflation hedge and how they should protect their portfolios.”
+
+Sonnenshein elaborated further saying: “It's important that investors think about that. And I think a lot of them are actually thinking about the juxtaposition between digital currencies, like Bitcoin, which have verifiable scarcity and thinking about that in the context of Fiat currencies, like the US dollar which seemingly are being printed unlimitedly.”
+
+Part of Bitcoin’s price appreciation can certainly be attributed to fears of inflation and its use as a hedge against it. With further money printing on the horizon from stimulus packages, as well as talks of student loan forgiveness from the Biden administration, it is fair to say that inflation will continue, making the case for store-of-value assets more compelling.
+
+The Halving
+
+To further understand why Bitcoin has a verifiable finite limit to its quantity it is important to understand the mechanism built into its code known as the Halving. Every 210,000 blocks that are mined, or about every four years, the reward given to miners for processing Bitcoin transactions is reduced in half.
+
+In other words, built into Bitcoin is a synthetic form of inflation because a reward of Bitcoin given to a miner adds new Bitcoin into circulation. The rate of this inflation is cut in half every four years and this will continue until all 21 million Bitcoin is released to the market. Currently, there are 18.5 million Bitcoins in circulation, or about 88.4% of Bitcoin’s total supply. Why is this important?
+
+As discussed before, the rising inflation and growing quantity of the US dollar lower its value over time. With gold, there is a somewhat steady rate of new gold mined from the earth each year, which keeps its rate of inflation relatively consistent.
+
+With Bitcoin, each halving increases the assets stock-to-flow ratio. A stock-to-flow ratio means the currently available stock circulating in the market relative to the newly flowing stock being added to circulation each year. Because we know that every four years the stock-to-flow ratio, or current circulation relative to new supply, doubles, this metric can be plotted into the future.
+
+Since Bitcoin’s inception, its price has followed extremely close to its growing stock-to-flow ratio. Each halving Bitcoin has experienced a massive bull market that has absolutely crushed its previous all-time high.
+
+The first halving, which occurred in November of 2012, saw an increase from about $12 to nearly $1,150 within a year. The second Bitcoin halving occurred in July of 2016. The price at that halving was about $650 and by December 17th, 2017, Bitcoin's price had soared to just under $20,000. The price then fell over the course of a year from this peak down to around $3,200, a price nearly 400% higher than Its pre-halving price. Bitcoin’s third having just occurred on May 11th, 2020 and its price has since increased by nearly 120%.
+
+https://www.lookintobitcoin.com/charts/stock-to-flow-model/.
+
+Bitcoin’s price increase can also be attributed to its stock-to-flow ratio and deflation. Should Bitcoin continue on this trajectory as it has in the past, investors are looking at significant upside in both the near and long-term future. Theoretically, this price could rise to at least $100,000 sometime in 2021 based on the stock-to-flow model shown above.
+
+Some investment firms have made Bitcoin price predictions based on these fundamental analysis and scarcity models. In a leaked CitiFX Technicals analysis Tom Fitzpatrick, the managing director at US Citibank, called for a $318,000 Bitcoin sometime in 2021. Live on Bloomberg Scott Minerd, the Chief Investment Officer of Guggenheim Global called for a $400,000 Bitcoin based on their “fundamental work.”
+
+Institutional adoption
+
+As discussed, the narrative of Bitcoin as a store of value has increased substantially in 2020, but not just with retail investors. A number of institutions, both public and private, have been accumulating Bitcoin instead of holding cash in their treasuries.
+
+Recent investors include Square (SQ), MicroStrategy (MSTR), and most recently the insurance giant MassMutual, among many others. In total, 938,098 Bitcoin now valued at the time of writing at $19,450,247,760 has been purchased by companies, most of which has been accumulated this year. The largest accumulator has been from Grayscale’s Bitcoin Trust which now holds 546,544 Bitcoin.
+
+https://bitcointreasuries.org/.
+
+Investments of this magnitude suggest strong confidence among these institutional investors that the asset will be a good hedge against inflation as well as provide solid price appreciation over time.
+
+Aside from companies flat out buying Bitcoin, many companies are now beginning to provide services for them. PayPal (PYPL), for example, has decided to allow crypto access to its over 360 million active users. Fidelity Digital Assets, which launched back in October 2018, has provided custodial services for cryptocurrencies for some time, but they are now allowing clients to pledge bitcoin as collateral in a transaction. The CBOE and the CME Group (CME) plan to launch cryptocurrency products next year. The number of banks, broker-dealers, and other institutions looking to add such products are too many to name, but in the same way that a company must have confidence in an investment, it must also have confidence that the products that they sell have value.
+
+Central banks and governments around the world are also now considering the potential of a central bank digital currency (CBDC). While these are not cryptocurrencies as they are not decentralized, and core control over supply and rules is in the hands of the banks or governments, they still show the government’s recognition of the necessity for a more advanced payment system than paper cash provides. This further lends merit to the concept of cryptocurrencies and their convenience in general.
+
+Maturity
+
+From its initial primary use as a method to purchase drugs online to a new monetary medium that provides provable scarcity and ultimate transparency with its immutable ledger, Bitcoin has come a long way since its release in 2009. Even after the realization that Bitcoin and its blockchain tech could be used for way more than just the silk road, it was still near impossible for the average person to get involved in previous years. Wallets, keys, exchanges, the on-ramp was confusing and complicated.
+
+Today, access is easier than ever. Licensed and regulated exchanges that are easy to use are abundant in the US. Custodial services from legacy financial institutions that people are used to are available for the less tech-savvy. Derivatives and blockchain-related ETFs allow those interested in investing but fearful of volatility to become involved. The number of places that Bitcoin and other cryptocurrencies are accepted as payment is growing rapidly.
+
+In Investopedia’s Express podcast, Grayscale’s Sonnenshein said “the market today has just developed so much more from where we were back then (2017 peak), we've really seen the development of a two-sided market derivatives options, lending and borrowing futures markets. It's just a much more robust 24 hour two-sided market that is starting to act more and more mature with every day that passes.”
+
+Along with all of this, the confidence showcased by large institutional players by both their offering of crypto-related products as well as blatant investment into Bitcoin speaks volumes. 99Bitcoins, a site that tallies the number of times an article has declared Bitcoin as dead, now tallies Bitcoin at 386 deaths, with its most recent death being November 18th, 2020 and the oldest death being October 15th, 2010. With Bitcoin smashing through its all-time-high and having more infrastructure and institutional investment than ever, it doesn’t seem to be going anywhere.

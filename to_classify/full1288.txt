@@ -1,0 +1,42 @@
+2020-12-20 12:00:08+00:00
+ By Brandon Rakszawski, Senior ETF Product Manager, VanEck
+
+When we entered 2020, interest rates were already low, leaving investors searching for yield. As the year unfolded, we saw the U.S. Federal Reserve cut rates down to zero to prop up the economy during the COVID-19 pandemic. Looking ahead, rates are expected to remain low for the foreseeable future, so the question of where to find yield remains. We believe alternative income solutions—including preferred securities, business development companies (BDCs) and mortgage REITS—may present an attractive opportunity for investors to enhance yield in their portfolio. As investors plan their 2021 allocations, in this Q&A we explore the current market environment, where to find alternative sources of income and how they may fit within a portfolio.
+
+Where are there opportunities for alternative sources of income?
+
+Investors have sought income opportunities for years as central bank policy has resulted in a prolonged low rate environment. Alternatives to historically low yields on government bonds have been the beneficiary of increased investor demand. Corporate debt—both investment grade and high yield—as well as emerging markets corporate and sovereign debt have garnered attention.
+
+However, some lesser known areas of the U.S. market have also become more popular income-generating investments. Preferred securities generally fall above common stock and below senior debt in a company’s capital structure and historically offer more attractive yield than both. Business development companies (BDCs) are a small but growing subset of the private credit market. BDCs lend to and invest in smaller, private companies that would generally be considered below investment grade if rated by a credit rating agency. BDCs offer exchange-traded exposure to private credit, which is typically difficult to access. Finally, mortgage REITs are publicly traded companies that elect to be treated as real estate investment trusts for tax purposes, requiring them to pass through a large majority of their taxable earnings to shareholders. Mortgage REITs employ leverage and/or credit exposure techniques in the residential and commercial mortgage market to offer impressive yield far greater than typical mortgage securities issues.
+
+What are preferred securities, and why are they attractive?
+
+Preferred securities are considered hybrid securities, exhibiting characteristics of both stocks and bonds, and may offer yield potential higher than that of a company’s common equity and senior debt. Preferreds historically feature low correlations with equities and traditional fixed income instruments, which may make them a useful diversifier in portfolios, especially during volatile periods.
+
+What should investors consider when allocating to preferreds?
+
+A large majority of preferred securities are issued by banks and insurance companies, but seeking exposure to non-financial preferreds (“ex-financials”) provides differentiated exposure that result in greater sector diversification without sacrificing yield. Excluding financial issuers also increases the proportion of preferreds paying cumulative distributions and lowers the proportion featuring near-term call dates relative to the broad preferreds market. These are especially important characteristics in the current environment, where there are concerns of dividend suspensions and high incentive for issuers to call and reissue securities with lower rates.
+
+VanEck Vectors Preferred Securities ex Financials ETF (PFXF) targets preferred securities issued by companies that operate outside of the traditional financial sector, offering differentiated exposure compared to most broad-based preferred ETFs without sacrificing yield potential.
+
+How can BDCs help enhance yield?
+
+BDCs issue common stock and generate income by lending to and investing in private companies that tend to be rated below investment grade or unrated. This private credit nature, along with their pass through tax treatment, has historically provided high income potential to investors with yields often near double digits. BDCs were negatively impacted in the COVID-induced sell-off in March and April 2020, though have since experienced a significant recovery.
+
+Confidence in BDCs was also given a boost recently by positive earnings calls. Several of the largest public BDC—including Ares Capital and Owl Rock Capital Corp.1—shared improved operating metrics and revenues in their portfolio companies. Management teams also noted increasing loan activity in investment pipelines, which may help set up their portfolios to drive future income and returns. Between the optimistic news around COVID-19 vaccines, potential new stimulus measures and positive quarterly earnings calls, we believe BDCs may continue to recover, providing both attractive income and appreciation potential for investors.
+
+How can investors incorporate BDCs within their portfolio?
+
+VanEck Vectors BDC Income ETF (BIZD) invests exclusively in BDC equity securities. BDC stock is susceptible to equity market volatility, and most investors likely shouldn’t consider BDCs as a replacement to their traditional income exposure. Rather, BDCs are often used to enhance the yield of an income portfolio to the degree that matches the investor’s risk tolerance. BDCs primarily lends to private companies that may not have access to financing from larger banks or access to public debt markets. Because those companies are historically smaller, middle-market companies, the interest rates associated with their loans tend to be attractive for BDC investors. However, there is credit risk associated with these companies, and BIZD allows investors to access the entire market and limit single BDC credit risk.
+
+What is the current environment like for mortgage REITs?
+
+Mortgage REITs generally invest in mortgage securities and loans, and operate in other areas of the mortgage and real estate ecosystem. Exposure to interest rate- and credit-sensitive assets in combination with leverage is what allows mortgage REITs to offer attractive yields. However, this also subjects them to elevated risks that investors should consider when making an allocation.
+
+Mortgage REITs were hit hard during the COVID-19 market sell-off, and have recovered modestly, though they are still trading below early year highs. This may present a potentially attractive entry point for investors. In addition, Fed action is helping to stabilize and support the mortgage markets. We believe that continued easy policy from the Fed will help keep funding costs low and support the mortgage REIT business model. As part of its quantitative-easing program, the Fed’s monthly purchases of mortgage-backed securities, worth billions of dollars, is supporting the industry. The last time the Fed stepped in to this degree was in 2008, and in 2009 and 2010 mortgage REITs outperformed the S&P 500. However, while mortgage REITs currently exhibit attractive characteristics, risks do exist with much of the real estate industry still in flux as shutdowns remain in place in certain areas of the country.
+
+How can investors access mortgage REITs?
+
+VanEck Vectors Mortgage REIT Income ETF (MORT) offers exposure to the U.S. mortgage REIT market. Mortgage REITs range in scope from those that are focused exclusively on purchasing high credit quality agency mortgage-backed securities (MBS) to mortgage REITs that focus on commercial mortgage origination and investment. Yields offered by mortgage REITs have been attractive historically but also signify inherent risk. Some mortgage REITs employ significant leverage to increase yield, while others take on credit risk in non-agency MBS and commercial mortgage loans and securities. Investors attracted to such lofty yields must also weigh the risks associated with such an investment. The U.S. mortgage REIT market is relatively small, so MORT allows investors to easily diversify their mortgage REIT investment.
+
+Originally published by VanEck, 12/17/20

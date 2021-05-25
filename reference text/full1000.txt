@@ -1,0 +1,42 @@
+None
+ The ongoing Bitcoin (BTC) rally has primarily been driven by institutions, analysts say, with metrics such as CME’s open interest and Grayscale’s assets under management (AUM), supporting this narrative.
+
+At the same time, the gold market has seen large outflows in recent weeks. On Nov. 24, independent financial researcher Jan Nieuwenhuijs reported that gold saw its largest weekly outflow in history.
+
+Largest outflow from gold ever. pic.twitter.com/Re4o3PHrel — Jan Nieuwenhuijs (@JanGold_) November 23, 2020
+
+The timing of the heightened level of outflows from the gold market is noteworthy because it comes after the entrance of major institutional investors into the Bitcoin market.
+
+Cointelegraph reported that Guggenheim Partners, which manages $275 billion in assets, is the latest institution to show interest in Bitcoin.
+
+What does this mean for Bitcoin?
+
+In the medium to long term, the inflow of institutional capital into Bitcoin could lead to two key trends.
+
+First, Bitcoin could see a more sustained uptrend that has emerged since September. Institutions, especially those gaining exposure to BTC through the Grayscale Bitcoin Trust, are likely accumulating BTC with a long-term strategy.
+
+Some long-time Bitcoin investors, who had gold positions for prolonged periods, have also started to allocate their capital fully into BTC. Raoul Pal, the CEO of Real Vision Group, said:
+
+“Ok, last bomb - I have a sell order in tomorrow to sell all my gold and to scale in to buy BTC and ETH (80/20). I dont own anything else (except some bond calls and some $'s). 98% of my liquid net worth. See, you can't categorize me except #irresponsiblylong Good night all.”
+
+Second, fund managers say that this could make Bitcoin even more dominant in the cryptocurrency market. Currently, the market cap of Bitcoin accounts for 63.83% of the global cryptocurrency market’s valuation.
+
+Bitcoin dominance index. Source: Coinmarketcap
+
+Kyle Davies, the co-founder at Three Arrows Capital, one of the largest funds in the cryptocurrency sector, said:
+
+“No one goes gold -> $BTC -> alts This year has seen big high net worth inflows from USD or gold to BTC. This is not retail. These guys aren't going into ripples.”
+
+The near-term trend of BTC remains uncertain
+
+Bitcoin has seen strong momentum throughout the past three months, barely seeing major corrections.
+
+During previous bull cycles, it's not uncommon for BTC to see 30% pullbacks, and the recent run is yet to post a major downturn. But, in the near term, on-chain analysts say that BTC could be braced for a deeper drop.
+
+Bitcoin All Exchanges Outflow Mean. Source: CryptoQuant
+
+Ki Young Ju, the CEO of CryptoQuant, said that whales are keeping more BTC on exchanges than in the past few months. This could indicate that whales could sell more BTC in the foreseeable future. He said:
+
+“The fact that whales don't withdraw means that $BTC is available for selling. If whales think the price will go up, they'll withdraw $BTC a lot. I don't know when it'll start, but if the price drops, whales will react to the price and make high volatility.”
+
+Whether the buyer demand from institutions and their Time-weighted Average Price (TWAP) algorithms would counter the selling pressure from whales would likely dictate the short-term price cycle of BTC.
