@@ -20,7 +20,7 @@ The articles in the "to_classify" folder are now ready to be classified.
 
 ## Categorizer.py
 
-The Categorizer.py is a GUI software, made with Tkinter, that makes the manual classification of the "Gold" news inside the "to_classify" folder easier and faster. Given the soure folder in the text file (i.e. "to_classify"), it pickes the first articles and displays the text. After reading through the article summary text, the user decides to categorize them as **positive**, **negative** or nothing (**delete**). For the setup here, the articles will be moved to the respective folder. "pos" for positive articles and "neg" for negative articles. The Delete button removes the article.
+The Categorizer.py is a GUI software, made with Tkinter, that makes the manual classification of the "Gold" news inside the "to_classify" folder easier and faster. Given the folder path (absolute path) where the text files are located, it pickes the first articles and displays the text. After reading through the article summary text, the user decides to categorize them as **positive**, **negative** or nothing (**delete**). For the setup here, the articles will be moved to the respective folder. "pos" for positive articles and "neg" for negative articles. The Delete button removes the article.
 
 *The output location of the positive and negative articles can be changed manually inside the code.*
 
@@ -28,4 +28,5 @@ The Categorizer.py is a GUI software, made with Tkinter, that makes the manual c
 
 * The "reference_text" folder is used to dump all the original "full" articles after the article summary has been classified into either positive or negative
 * the "gold_news" folder and its .zip data are a subset of articles (237 articles) seperated into a train and validation set for training neural networks.
+* Included is the NLP text classifier from the FastAI Course ("10_nlp.py" and "10_nlp.ipynb"). The "gold_news" can be directly loaded into the RNN model, or the articles from the "pos" and "neg" can be redistributed into training and validation set.
 * The "Initiator for API.py" and "test.ipynb" are reference and testing files, and serve no other purpose. (can be deleted)
